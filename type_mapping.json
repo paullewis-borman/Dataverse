@@ -1,0 +1,20 @@
+{
+    "Text": "NVARCHAR(255)",
+    "Memo": "NVARCHAR(MAX)",
+    "Integer": "INT",
+    "Big Integer": "BIGINT",
+    "Decimal": "DECIMAL(18, 2)",
+    "Currency": "MONEY",
+    "Float": "FLOAT",
+    "DateTime": "DATETIME2",
+    "Boolean": "BIT",
+    "Unique Identifier": "UNIQUEIDENTIFIER",
+    "Option Set": "INT",
+    "Lookup": "UNIQUEIDENTIFIER",
+    "Owner": "UNIQUEIDENTIFIER",
+    "Customer": "UNIQUEIDENTIFIER",
+    "Two Options": "BIT",
+    "Image": "VARBINARY(MAX)",
+    "MultiSelect Option Set": "NVARCHAR(MAX)",
+    "Status": "INT"
+}
